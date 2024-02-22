@@ -79,8 +79,8 @@ doesn't override existing {lhs}s unless [!] is given.
 
 Modes	{lhs}		{rhs}
 ------------------------------------------------
-vo	al		|<Plug>(textobj-line-a)|
-vo	il		|<Plug>(textobj-line-i)|
+vo	aL		|<Plug>(textobj-line-a)|
+vo	iL		|<Plug>(textobj-line-i)|
 
 
 NAMED KEY MAPPINGS				*textobj-line-named-key-mappings*
